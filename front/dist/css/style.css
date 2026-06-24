@@ -1,0 +1,22 @@
+.hero{
+    background-color: #34699a;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.filtro{
+    margin: 4px;
+}
+
+.card{
+    transition: transform 0.3s;
+}
+
+.card:hover{
+    transform: translateY(-5px);
+}
+
+.card-img-top{
+    height: 200px;
+    background-color: #d9d9d9;
+}
